@@ -16,7 +16,7 @@ The following data sets are considered:
 ## Getting Started
 - Clone or download the repository.
 
-## Prerequisites
+### Prerequisites
 - Python
 - Pandas
 - Numpy
