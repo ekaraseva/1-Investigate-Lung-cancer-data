@@ -17,7 +17,7 @@ The following data sets are considered:
 - Clone or download the repository.
 
 ### Prerequisites
-- Python
+- Python (3.6)
 - Pandas
 - Numpy
 - Matplotlib
